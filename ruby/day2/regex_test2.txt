@@ -1,0 +1,140 @@
+Info taken from wikipedia.....
+
+Toxoplasma gondii (IPA /ˈtɑːksəˌplæzmə ˈɡɑːndi.aɪ/) is an obligate intracellular, parasitic protozoan
+that causes the disease toxoplasmosis.[3] Found worldwide, T. gondii is capable of infecting virtually
+all warm-blooded animals,[4] but felids such as domestic cats are the only known definitive hosts in
+which the parasite can undergo sexual reproduction.[5]
+
+In humans, T. gondii is one of the most common parasites in developed countries;[6][7] serological
+studies estimate that 30–50% of the global population has been exposed to and may be chronically
+infected with T. gondii, although infection rates differ significantly from country to country.[8][9]
+For example, previous estimates have shown the highest prevalence of persons infected to be in France,
+at 84%.[10] Although mild, flu-like symptoms occasionally occur during the first few weeks following
+exposure, infection with T. gondii produces no readily observable symptoms in healthy human
+adults.[8][11][12] This asymptomatic state of infection is referred to as a latent infection and has
+recently been associated with numerous subtle adverse or pathological behavioral alterations in
+humans.[8][13] In infants, HIV/AIDS patients, and others with weakened immunity, infection can cause a
+serious and occasionally fatal illness, toxoplasmosis.[11][12]
+
+T. gondii has been shown to alter the behavior of infected rodents in ways thought to increase the
+rodents' chances of being preyed upon by cats.[10][14][15] Support for this "Manipulation Hypothesis"
+stems from studies showing T. gondii infected rats have a decreased aversion to cat urine.[10] Because
+cats are the only hosts within which T. gondii can sexually reproduce to complete and begin its
+lifecycle, such behavioral manipulations are thought to be evolutionary adaptations that increase the
+parasite's reproductive success.[10] The rats wouldn't shy away from areas where cats live and would
+also be less able to escape should a cat try to prey on them. The primary mechanisms of T.
+gondii–induced behavioral changes in rodents is now known to occur through epigenetic remodeling in
+
+neurons which govern the associated behaviors;[16][17] for example, it modifies epigenetic methylation to cause hypomethylation of arginine vasopressin-related genes in the medial amygdala to greatly
+decrease predator aversion.[16][17] Widespread histone-lysine acetylation in cortical astrocytes
+appears to be another epigenetic mechanism employed by T. gondii.[18][19] Differences in aversion to
+cat urine are observed between non-infected and infected humans and sex differences within these
+groups were apparent as well.[20]
+
+A number of studies have suggested that subtle behavioral or personality changes may occur in infected humans,[21] and infection with the parasite has recently been associated with a number of neurological disorders, particularly schizophrenia.[15] A 2015 study also found cognitive deficits in adults to be associated with joint infection by both T. gondii and Helicobacter pylori in a regression model with controls for race-ethnicity and educational attainment.[22] However, although a causal relationship between latent toxoplasmosis with these neurological phenomena has not yet been established,[8][15] preliminary evidence suggests that T. gondii infection can induce some of the same alterations in the human brain as those observed in mice.[23][24]
+
+Lifecycle[edit]
+
+Lifecycle of Toxoplasma gondii
+
+Lifecycle of T. gondii
+The lifecycle of T. gondii can be broadly summarized into two components: 1) a sexual component that
+occurs only within cats (felids, wild or domestic), and 2) an asexual component that can occur within
+virtually all warm-blooded animals, including humans, cats, and birds.[25] Because T. gondii can
+sexually reproduce only within cats, they are defined as the definitive host of T. gondii. All other
+hosts – hosts in which only asexual reproduction can occur – are defined as intermediate hosts.
+
+Sexual reproduction in the feline definitive host[edit]
+When a member of the cat family is infected with T. gondii (e.g. by consuming an infected mouse laden
+with the parasite's tissue cysts), the parasite survives passage through the stomach, eventually
+infecting epithelial cells of the cat's small intestine.[26] Inside these intestinal cells, the
+parasites undergo sexual development and reproduction, producing millions of thick-walled, zygote-containing cysts known as oocysts.
+
+
+T. gondii oocysts in a fecal flotation
+Feline shedding of oocysts[edit]
+Infected epithelial cells eventually rupture and release oocysts into the intestinal lumen, whereupon
+they are shed in the cat's feces.[27] Oocysts can then spread to soil, water, food, or anything
+potentially contaminated with the feces. Highly resilient, oocysts can survive and remain infective
+for many months in cold and dry climates.[28]
+
+Ingestion of oocysts by humans or other warm-blooded animals is one of the common routes of
+infection.[29] Humans can be exposed to oocysts by, for example, consuming unwashed vegetables or
+contaminated water, or by handling the feces (litter) of an infected cat.[25][30] Although cats can
+also be infected by ingesting oocysts, they are much less sensitive to oocyst infection than are
+intermediate hosts.[31][32]
+
+Initial infection of the intermediate host[edit]
+T. gondii is considered to have three stages of infection; the tachyzoite stage of rapid division, the bradyzoite stage of slow division within tissue cysts, and the oocyst environmental stage.[33]
+When an oocyst or tissue cyst is ingested by a human or other warm-blooded animal, the resilient cyst wall is
+dissolved by proteolytic enzymes in the stomach and small intestine, freeing sporozoites from within
+the oocyst.[29][33] The parasites first invade cells in and surrounding the intestinal epithelium,
+and inside these cells, the parasites differentiate into tachyzoites, the motile and quickly multiplying
+cellular stage of T. gondii.[26] Tissue cysts in tissues such as brain and muscle tissue, form
+approximately 7–10 days after initial infection.[33]
+
+Asexual reproduction in the intermediate host[edit]
+Inside host cells, the tachyzoites replicate inside specialized vacuoles (called the parasitophorous
+vacuoles) created during parasitic entry into the cell.[34] Tachyzoites multiply inside this vacuole
+until the host cell dies and ruptures, releasing and spreading the tachyzoites via the bloodstream to
+all organs and tissues of the body, including the brain.[35]
+
+
+T. gondii tissue cyst in a mouse brain, individual bradyzoites can be seen within
+Formation of tissue cysts[edit]
+Following the initial period of infection characterized by tachyzoite proliferation throughout the
+body, pressure from the host's immune system causes T. gondii tachyzoites to convert into
+bradyzoites, the semidormant, slowly dividing cellular stage of the parasite.[36] Inside host cells,
+clusters of these bradyzoites are known as tissue cysts. The cyst wall is formed by the
+parasitophorous vacuole membrane.[37] Although bradyzoite-containing tissue cysts can form in
+virtually any organ, tissue cysts predominantly form and persist in the brain, the eyes, and striated
+muscle (including the heart).[37] However, specific tissue tropisms can vary between species; in
+pigs, the majority of tissue cysts are found in muscle tissue, whereas in mice, the majority of cysts
+are found in the brain.[38]
+
+Cysts usually range in size between five and 50 µm in diameter,[39] (with 50 µm being about two-thirds the width of the average human hair).[40]
+
+Consumption of tissue cysts in meat is one of the primary means of T. gondii infection, both for
+humans and for meat-eating, warm-blooded animals.[41] Humans consume tissue cysts when eating raw or
+undercooked meat (particularly pork and lamb).[42] Tissue cyst consumption is also the primary means
+by which cats are infected.[43]
+
+Chronic infection[edit]
+Tissue cysts can be maintained in host tissue for the lifetime of the animal.[44] However, the
+perpetual presence of cysts appears to be due to a periodic process of cyst rupturing and re-encysting, rather than a perpetual lifespan of individual cysts or bradyzoites.[44] At any given time
+in a chronically infected host, a very small percentage of cysts are rupturing,[45] although the
+exact cause of this tissue cysts rupture is, as of 2010, not yet known.[46]
+
+Theoretically, T. gondii can be passed between intermediate hosts indefinitely via a cycle of
+consumption of tissue cysts in meat. However, the parasite's lifecycle begins and completes only when
+the parasite is passed to a feline host, the only host within which the parasite can again undergo
+sexual development and reproduction.[29]
+
+Population structure in the wild[edit]
+Khan et al.[47] reviewed evidence that despite the occurrence of a sexual phase in its life cycle, T. gondii has an unusual population structure dominated by three clonal lineages (Types I, II and III)
+that occur in North America and Europe. They estimated that a common ancestor founded these clonal
+lineages about 10,000 years ago. In a further and larger study (with 196 isolates from diverse
+sources including T. gondii found in the bald eagle, gray wolves, Arctic foxes and sea otters), Dubey
+et al.[48] also found that T. gondii strains infecting North American wildlife have limited genetic
+diversity with the occurrence of only a few major clonal types. They found that 85% of strains in
+North America were of one of three widespread genotypes (Types II, III and Type 12). Thus T. gondii
+has retained the capability for sex in North America over many generations, producing largely clonal
+populations, and matings have generated little genetic diversity.
+
+Immune response[edit]
+Initially, a T. gondii infection stimulates production of IL-2 and IFN-γ by the innate immune
+system.[49] Continuous IFN-c production is necessary for control of both acute and chronic T. gondii
+infection.[49] These two cytokines elicit a CD4+ and CD8+ T-cell mediated immune response.[49] IL-12
+is also produced during T. gondii infection to activate natural killer (NK) cells. [49] Tryptophan is
+an essential amino acid for T. gondii, which it scavenges from host cells. IFN-γ induces the
+activation of indole-amine-2,3-dioxygenase (IDO) and tryptophan-2,3-dioxygenase (TDO), two enzymes
+that are responsible for the degradation of tryptophan.[50] Immune pressure eventually leads the
+parasite to form cysts that normally are deposited in the muscles and in the brain of the hosts.[49]
+
+Immune response and behaviour alterations[edit]
+The IFN-γ-mediated activation of IDO and TDO is an evolutionary mechanism that serves to starve the
+parasite, but it can result in depletion of tryptophan in the brain of the host. IDO and TDO degrade
+tryptophan to N-formylkynurenine and administration of L-kynurenine is capable of inducing depressive-like behaviour in mice.[50] T. gondii infection has been demonstrated to increase the levels of
+kynurenic acid (KYNA) in the brains of infected mice and KYNA has also been demonstrated to be
+increased in the brain of schizophrenic persons.[50] Low levels of tryptophan and serotonin in the
+brain were already associated to depression.[51]
