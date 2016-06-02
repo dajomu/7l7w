@@ -4,7 +4,6 @@ using just each. Now, do the same with each_slice in Enumerable.
 =end
 
 counter = 0
-outText = ''
 
 # instantiate array with set of 16 random numbers
 silly_array = []
@@ -12,23 +11,21 @@ silly_array = []
 	silly_array.push(rand(10).to_i)
 }
 
-puts silly_array
-
-=begin
 # iterate over full array with each
 silly_array.each do|num| 
-	outText = outText + num.to_s + ' '
+	print "#{num} "
 	counter += 1
 	# when we get to a count of 4 print result and reset
 	if counter == 4
-		puts outText
 		counter = 0
-		outText = ''
+		puts ''
 	end
 end
-=end
 
 # iterate over full array with each_slice
-silly_array.each_slice do|num| 
-	puts "#{num}"
+silly_array.each_slice(4) do|num_array| 
+	num_array.each {|num| print "#{num} "}
+	puts ''
 end
+
+# that was a bit easier
