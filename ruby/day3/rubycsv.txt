@@ -1,4 +1,4 @@
-one, two
-lions, tigers
-apes, monkeys
-hedgehogs, humans
+one, two, three
+lions, tigers, lynx
+apes, monkeys, baboons
+hedgehogs, humans, haribobear
